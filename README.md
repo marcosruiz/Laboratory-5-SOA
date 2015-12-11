@@ -30,7 +30,7 @@ Agustin Navarro Torres | 587570
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578
 Luis Jesus Pellicer | 520256
-Marcos Ruiz García | 648045
+Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-5-SOA)
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279
